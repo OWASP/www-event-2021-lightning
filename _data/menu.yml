@@ -4,19 +4,19 @@
   items:
     - title: Schedule
       url : /www-event-example/schedule/
-    - title: Keynotes
+    #- title: Keynotes
       url : /www-event-example/
-    - title: Training
+    #- title: Training
       url : /www-event-example/
-    - title: Call for Speakers/Trainers
+    #- title: Call for Speakers/Trainers
       url : /www-event-example/
 - title: ABOUT
   items:
-    - title: Sponsors & Exhibitors
+    - title: Sponsorship Opportunities
       url  : /www-event-example/sponsors/
-    - title: Volunteer
+    #- title: Volunteer
       url  : /www-event-example/
-    - title: Venue, Travel, & Lodging
+    #- title: Venue, Travel, & Lodging
       url  : /www-event-example/
-    - title: Progam Team
+    #- title: Progam Team
       url  : /www-event-example/
