@@ -1,3 +1,1 @@
-# www-event-example
-
-## Sample Event Site
+# OWASP Lightning Event 2021
