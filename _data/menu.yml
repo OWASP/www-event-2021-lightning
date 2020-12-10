@@ -1,22 +1,22 @@
 - title: HOME
-  url: /www-event-example/
+  url: /
 - title: PROGRAM
   items:
     - title: Schedule
-      url : /www-event-example/schedule/
+      url : /schedule/
     #- title: Keynotes
-      url : /www-event-example/
+      url : /keynotes/
     #- title: Training
-      url : /www-event-example/
+      url : /training
     #- title: Call for Speakers/Trainers
-      url : /www-event-example/
+      url : /cfp-cft/
 - title: ABOUT
   items:
     - title: Sponsorship Opportunities
-      url  : /www-event-example/sponsors/
+      url  : /sponsors/
     #- title: Volunteer
-      url  : /www-event-example/
+      url  : /volunteer/
     #- title: Venue, Travel, & Lodging
-      url  : /www-event-example/
+      url  : /venue/
     #- title: Progam Team
-      url  : /www-event-example/
+      url  : /team/
