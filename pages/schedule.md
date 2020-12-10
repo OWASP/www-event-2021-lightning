@@ -2,8 +2,4 @@
 
 title: Schedule
 layout: event_noheader
-permalink: /schedule/
-
----
-
-Day 1
+permalink: https://lightningconferences2021.sched.com/
