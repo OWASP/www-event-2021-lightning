@@ -7,9 +7,9 @@ layout: event
 
 <!-- rebuild 1 -->
 
-***{{ site.data.event-details.location }}***
+# ***{{ site.data.event-details.location }}***
 
-{{ site.data.event-details.pitch }}
+## {{ site.data.event-details.pitch }}
 
 
 
