@@ -5,18 +5,18 @@
     - title: Schedule
       url : /schedule/
     #- title: Keynotes
-      url : /keynotes/
+    #  url : /keynotes/
     #- title: Training
-      url : /training
+    #  url : /training
     #- title: Call for Speakers/Trainers
-      url : /cfp-cft/
+    #  url : /cfp-cft/
 - title: ABOUT
   items:
     - title: Sponsorship Opportunities
       url  : /sponsors/
     #- title: Volunteer
-      url  : /volunteer/
+    #  url  : /volunteer/
     #- title: Venue, Travel, & Lodging
-      url  : /venue/
+    #  url  : /venue/
     #- title: Progam Team
-      url  : /team/
+    #  url  : /team/
