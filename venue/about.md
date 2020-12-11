@@ -1,12 +1,12 @@
 ---
 
-title: About the Venue
+title: About
 layout: event_noheader
 permalink: /venue/about/
 
 ---
 
-<strong> Lightning Conference Attendance <strong>
+<strong> Lightning Conference Virtual Attendance Details <strong>
   
 Lightning Conference events are held via the Zoom Platform. Prior to attending a Lightning Conference event, registered attendees will receive a link to access the event at least three hours prior to event start time. 
   
