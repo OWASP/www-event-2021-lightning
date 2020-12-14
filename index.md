@@ -10,7 +10,7 @@ layout: event
 ### ***{{ site.data.event-details.location }}***
 <br>
 <br>
-#### {{ site.data.event-details.pitch }}
+{{ site.data.event-details.pitch }}
 
 
 
