@@ -1,12 +1,13 @@
-#- image: staff_emily.jpg
-# name : Emily Berman
-# title: Director of Events
-# bio  : <p>Descriptive bio text.</p>
+#- image: /people/staff_kelly2.jpg
+# name: Kelly Santalucia
+# title: Director of Events and Corporate Support
+# bio: <p>Descriptive bio text.</p>
 # subject:
 # abstract:
+# style: background-repeat:no-repeat;
 #- image: staff_alonna.jpg
 # name: Alonna Stock
-# title: Executive Director
+# title: Senior Event Manager
 # bio: <p>Descriptive bio text.</p>
 # subject: 
 # abstract: 
