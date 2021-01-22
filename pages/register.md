@@ -12,7 +12,7 @@ Welcome to the Lightning Event presented by the OWASP Foundation. Please note th
 
 {% else %}
 <br>
-### Please join us and register [here] (https://www.eventbrite.com/e/how-to-turn-your-cybersecurity-hobby-into-a-career-an-int[%E2%80%A6]nties-tickets-137621959987?aff=OWASPwebsiteregistrationlink)
+### Please join us and register [here](https://www.eventbrite.com/e/how-to-turn-your-cybersecurity-hobby-into-a-career-an-int[%E2%80%A6]nties-tickets-137621959987?aff=OWASPwebsiteregistrationlink)
 <br>
 {% endif %}
 
