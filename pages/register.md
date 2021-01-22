@@ -12,7 +12,7 @@ Welcome to the Lightning Event presented by the OWASP Foundation. Please note th
 
 {% else %}
 <br>
-### Please join us and register [here]("https://www.eventbrite.com/e/137621959987)
+### Please join us and register [here](https://www.eventbrite.com/e/137621959987)
 <br>
 {% endif %}
 
