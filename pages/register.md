@@ -8,11 +8,11 @@ permalink: /register/
 
 ## Registration 
 {% if site.data.event-details.registration_open %}
-Welcome to the Lightning Event presented by the OWASP Foundation. Please note that this a fully virtual event. Upon completion of your registration you will receive a confirmation. Seven days prior to the event you receive detailed instruction on how to log-on to the virtual platform. 
+Welcome to the Lightning Event presented by the OWASP Foundation. Please note that this a fully virtual event. Upon completion of your registration you will receive a confirmation. Three days prior to the event you receive detailed instruction on how to log-on to the virtual platform. 
 
 {% else %}
 <br>
-### Registration is closed.
+### Please join us and register here: https://www.eventbrite.com/e/137621959987
 <br>
 {% endif %}
 
