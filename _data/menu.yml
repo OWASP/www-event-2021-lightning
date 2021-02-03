@@ -10,13 +10,13 @@
     #  url : /training
     #- title: Call for Speakers/Trainers
     #  url : /cfp-cft/
-- title: ABOUT
+- title: SPONSOR
   items:
     - title: Sponsorship Opportunities
       url  : /sponsors/
     #- title: Volunteer
     #  url  : /volunteer/
-    - title: Event Details
+    #- title: Event Details
       url  : /venue/about/
     #- title: Progam Team
     #  url  : /team/
