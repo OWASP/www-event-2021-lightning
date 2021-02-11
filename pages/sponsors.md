@@ -19,6 +19,7 @@ permalink: /sponsors/
  * Logo displayed on the official Lightning Conference website
  * Recognition on a slide prior to the Keynote presentation 
  * Social Media recognition
+ * Option to participate in Capture the Swag
  
 * <strong> Package Costs:
  * $10,000/USD Corporate Member: $9,500/USD
