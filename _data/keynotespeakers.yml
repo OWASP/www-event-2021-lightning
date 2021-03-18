@@ -2,7 +2,7 @@
   name: Katie Paxton-Fear
   #title: BLKNRTH Security AB
   bio: <p>Katie Paxton-Fear is a lecturer at Manchester Metropolitan University, she has a PhD in cyber security and machine learning from Cranfield University. But she’s more well known for her hobby, bug bounty hunting. Katie started out as a mentee at a live hacking event in June 2019 and she’s been hooked since. She’s found bugs in a range of organisations from the US Airforce to Verizon and Uber. She’s been all over the world pre-pandemic times at these live events. She realises how much mentoring meant to her on her journey so now sims to do the same for others, running a YouTube channel sharing all her tips and tricks, going deep in vulnerability explanations and educating others, to an audience of over 25,000 people.</p>
-  subject:  {“title”:“Hacking APIs for beginners”, “tags”:{“api security”, “bug bounty”}}
+  subject: {“title”:“Hacking APIs for beginners”, “tags”:{“api security”, “bug bounty”}}
   abstract: APIs are everywhere, they’re in our mobile apps, our desktop apps and even our fridges, and rightly so they often provide a useful service for developers allowing code to be reused across services and devices. But like many aspects of security, this convenience has a trade off when it comes to security. This is where I come in, I am a bug bounty Hunter and some of my favourite things to hack are APIs. In this talk you’ll join me on a beginners trip around the world of API security, showing you the vulnerabilities you can expect to find and how they can be resolved.
   style: background-repeat:no-repeat;
 #- image: staff_alonna.jpg
