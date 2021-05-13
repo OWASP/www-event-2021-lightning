@@ -1,15 +1,15 @@
 title: OWASP Lightning Conference
-dates: "Next Event:<br>Hacking APIs for beginners<br>May 12, 2021"
+dates: "Next Event:<br>Beyond the Bounty<br>July 13, 2021"
 # training: TBD
 # conference: TBD
-registration_url: https://www.eventbrite.com/e/how-to-turn-your-cybersecurity-hobby-into-a-career-an-intro-to-bugbounties-tickets-137621959987?aff=OWASPwebsiteregistrationlink
+registration_url: https://www.eventbrite.com/e/july-lightning-conference-beyond-the-bounty-tickets-151199217931
 logo_url: https://owasp.org/
 venue: Virtual Event
 location: Fast, Furious, and Informative
 background: LightningConferencewebheader.png
 color: 0440de
 analytics: 
-registration_open: false
+registration_open: true
 pitch: "We have a year long line-up of short, sweet and engaging content planned for you. 
         Our Lightning Conferences feature high caliber keynotes, industry panels, and Speaker Q&A in well-timed formats to fit your busy lifestyle.
         You’ll hear insights from our sponsors and learn from our feature speakers all in 90 minutes.
