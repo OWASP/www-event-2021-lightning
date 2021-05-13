@@ -1,4 +1,4 @@
-- image: Ben Sadeghipour Image.jpeg
+- image: BenSadeghipourImage.jpeg
   name: Ben Sadeghipour
   #title: BLKNRTH Security AB
   bio: <p>Ben is the Head of Hacker Education at HackerOne by day, and a hacker and content creator by night. He has helped identify over 700 security vulnerabilities across hundreds of web and mobile applications for companies such as Verizon Media, Red Bull, Apple, Airbnb, Snapchat, The US Department of Defense, Lyft, and more. One of the world’s top ethical hackers, he has invested time back into the security community by creating a community of 1000+ active hackers and hosting international conferences dedicated to hacker education and collaboration. He has also held free workshops and trainings to teach others about security and web application hacking.</p>
@@ -7,17 +7,3 @@
 
 We’ll hear from HackerOne’s Head of Hacker Education Ben Sadeghipour, better known by @nahamsec online, about his story and how he has made a career in bug bounty, content creation, and beyond by developing strategic opportunities based on learnings — and earnings — from crowdsourced security platforms.
   style: background-repeat:no-repeat;
-#- image: staff_alonna.jpg
-# name: Alonna Stock
-# title: Senior Event Manager
-# bio: <p>Descriptive bio text.</p>
-# subject: 
-# abstract: 
-# style: background-repeat:no-repeat;
-#- image: staff_harold.jpg
-#  name: Harold Blankenship
-#  title: Director of Technology and Projects
-#  bio: <p>Descriptive bio text.</p> 
-#  subject:  
-#  abstract:
-#  style: background-repeat:no-repeat;
