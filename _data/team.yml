@@ -1,23 +1,17 @@
 conferenceteam:
 staff: 
-  - name: Mike McCamon 
+  - name: Andrew van der Stock
     role: Executive Director
-    image: staff_mike.jpg
+    #image: staff_mike.jpg
   - name: Harold Blankenship
     role: Director of Technology and Projects
     image: staff_harold.jpg
-  - name: Emily Berman
-    role: Director of Events
-    image: staff_emily.jpg
   - name: Kelly Santalucia
-    role: Director of Corporate Support
+    role: Director of Events and Corporate Support
     image: staff_kelly.jpg
   - name: Dawn Aitken
-    role: Community and Operations Manager
+    role: Operations Manager
     image: staff_dawn.png
   - name: Lisa Jones
-    role: Sales and Marketing Operations Manager
+    role: Community Manager
     image: staff_lisa.jpg
-  - name: Sibah Poede
-    role: Events Coordinator
-    image: staff_sibah.jpg
