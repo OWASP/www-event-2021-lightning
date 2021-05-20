@@ -13,7 +13,7 @@ permalink: /sponsors/
 * 5 sponsors per conference, 6 total conferences per year
 
 * <strong> Benefits Include:
- * A 2-3 minute pre-recorded content-driven sponsor webinar will be played prior to the start of the conference. Attendees will be required to watch one of the sponsor’s pre-recorded webinars before being given the link to join the conference room.
+ * A 1-2 minute pre-recorded content-driven sponsor webinar will be played prior to the start of the conference. 
  * All opt-in conference registrations will be shared with you as leads
  * Logo displayed on the official Lightning Conference website
  * Recognition on a slide prior to the Keynote presentation 
