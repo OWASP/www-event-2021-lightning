@@ -8,3 +8,8 @@
   url: https://cobalt.io/
   backgroundSize: 125px
   type: 
+- logo: /assets/images/sponsors/teleport_logo.png
+  name: Teleport
+  url: https://goteleport.com/
+  backgroundSize: 125px
+  type:
