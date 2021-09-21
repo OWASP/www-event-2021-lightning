@@ -1,15 +1,10 @@
-- logo: /assets/images/sponsors/Invicti Green RGB (1).png
-  name: Invicti
-  url:  https://www.invicti.com/products/?utm_medium=events&utm_source=tradeshow&utm_campaign=i-owaspevents&utm_content=210209-websitevisit-virtualevent&utm_term=brand 
-  backgroundSize: 125px
-  type: 
 - logo: /assets/images/sponsors/cobalt-color-mark-logotype-tagline.png
   name: Cobalt
   url: https://cobalt.io/
   backgroundSize: 125px
   type: 
-- logo: /assets/images/sponsors/teleport_logo.png
-  name: Teleport
-  url: https://goteleport.com/
+- logo: /assets/images/sponsors/silogostacked.png
+  name: Security Innovation
+  url: https://www.securityinnovation.com/
   backgroundSize: 125px
   type:
